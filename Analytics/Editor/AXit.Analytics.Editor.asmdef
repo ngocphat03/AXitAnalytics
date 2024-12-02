@@ -1,0 +1,16 @@
+{
+    "name": "AXit.Analytics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4ca6c0c037713894688e8b5731279a80"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
