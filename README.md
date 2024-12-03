@@ -118,15 +118,15 @@ If your project uses DI frameworks, inject `AnalyticsService` into your classes.
 
 ```csharp
 using AXitUnityTemplate.Analytics.Runtime;
-****
+
 public class LevelController
 {
-		private readonly AnalyticsService analyticsService;
+    private readonly AnalyticsService analyticsService;
 		
-		public LevelController(AnalyticsService analyticsService)
-		{
+    public LevelController(AnalyticsService analyticsService)
+    {
         this.analyticsService = analyticsService;
-		}
+    }
 
     public void TrackStartGame()
     {
